@@ -1,0 +1,7 @@
+git add [파일] //파일 고르기 
+git commit -m '메세지  // 기록저장소에 옮기기
+//작업폴더 --> git add \ staging area --> commit
+//git add .  [전부]
+// git status
+
+//git init
